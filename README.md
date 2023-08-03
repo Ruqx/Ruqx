@@ -3,7 +3,7 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Ruqx)](https://github.com/Ruqx)
 
-I'm a passionate developer interested in [add your interests here]. Welcome to my GitHub profile! Here you'll find my personal projects and contributions.
+I'm a passionate developer interested in data science and Artificial Intelligence. Welcome to my GitHub profile! Here you'll find my personal projects and contributions.
 
 ## Connect with Me
 

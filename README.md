@@ -7,7 +7,6 @@ I'm a passionate developer interested in data science and Artificial Intelligenc
 
 ## Connect with Me
 
-[<img align="left" alt="Twitter" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter-alt.svg" width="22px">](https://twitter.com/ruqaiya_sa64060)
 [<img align="left" alt="LinkedIn" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="22px">](www.linkedin.com/in/ruqx)
 
 <br>
